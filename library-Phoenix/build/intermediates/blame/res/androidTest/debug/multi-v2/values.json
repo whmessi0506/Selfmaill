@@ -1,0 +1,12 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\sixinwork\\sixinwork\\library-Phoenix\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "E:\\sixinwork\\sixinwork\\library-Phoenix\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+            "map": []
+        }
+    ]
+}

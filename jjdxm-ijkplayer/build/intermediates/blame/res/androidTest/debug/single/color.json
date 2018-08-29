@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\sixinwork\\sixinwork\\jjdxm-ijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Messi\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\0aed0010ece55c070b8b4f585fae29da\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\sixinwork\\sixinwork\\jjdxm-ijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Messi\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\0aed0010ece55c070b8b4f585fae29da\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\sixinwork\\sixinwork\\jjdxm-ijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Messi\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\0aed0010ece55c070b8b4f585fae29da\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\sixinwork\\sixinwork\\jjdxm-ijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Messi\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\0aed0010ece55c070b8b4f585fae29da\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\sixinwork\\sixinwork\\jjdxm-ijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Messi\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\0aed0010ece55c070b8b4f585fae29da\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\sixinwork\\sixinwork\\jjdxm-ijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Messi\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\0aed0010ece55c070b8b4f585fae29da\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\sixinwork\\sixinwork\\jjdxm-ijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Messi\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\0aed0010ece55c070b8b4f585fae29da\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\sixinwork\\sixinwork\\jjdxm-ijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Messi\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\0aed0010ece55c070b8b4f585fae29da\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\sixinwork\\sixinwork\\jjdxm-ijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Messi\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\0aed0010ece55c070b8b4f585fae29da\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\sixinwork\\sixinwork\\jjdxm-ijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Messi\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\0aed0010ece55c070b8b4f585fae29da\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\sixinwork\\sixinwork\\jjdxm-ijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Messi\\.gradle\\caches\\4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\0aed0010ece55c070b8b4f585fae29da\\res\\color\\abc_secondary_text_material_light.xml"
+    }
+]
